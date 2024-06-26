@@ -39,7 +39,8 @@ inicio
          escreval("Pressione Enter para continuar...")
          leia(opcao)
       caso 7
-         escreval("Conteúdo")
+         escreval("Ferramentas de versionamento")
+          escreval ("pfapiapdasipfiaspfiapsifpaifspsafpaf")
          escreval("Pressione Enter para continuar...")
          leia(opcao)
       senao
