@@ -3,48 +3,48 @@ var
    opcao: inteiro
 inicio
    repita
-      escreval("Bem vindos a introdução ao versionamento. Escolha uma opção:")
-      escreval("1 - Tópico 1")
-      escreval("2 - Tópico 2")
-      escreval("3 - Tópico 3")
-      escreval("4 - Tópico 4")
-      escreval("5 - Tópico 5")
-      escreval("6 - Tópico 6")
-      escreval("7 - Tópico 7")
+      escreval("Bem vindos a introduÃ§Ã£o ao versionamento. Escolha uma opÃ§Ã£o:")
+      escreval("1 - TÃ³pico 1")
+      escreval("2 - TÃ³pico 2")
+      escreval("3 - TÃ³pico 3")
+      escreval("4 - TÃ³pico 4")
+      escreval("5 - TÃ³pico 5")
+      escreval("6 - TÃ³pico 6")
+      escreval("7 - Conflitos Comuns")
       escreval("8 - Sair")
       leia(opcao)
       escolha opcao
       caso 1
-         escreval("Você escolheu a Opção 1.")
+         escreval("VocÃª escolheu a OpÃ§Ã£o 1.")
          escreval("Pressione Enter para continuar...")
          leia(opcao)
       caso 2
-         escreval("Você escolheu a Opção 2.")
+         escreval("VocÃª escolheu a OpÃ§Ã£o 2.")
          escreval("Pressione Enter para continuar...")
          leia(opcao)
       caso 3
-         escreval("Você escolheu a Opção 3")
+         escreval("VocÃª escolheu a OpÃ§Ã£o 3")
          escreval("Pressione Enter para continuar...")
          leia(opcao)
       caso 4
-         escreval("Você escolheu a Opção 4")
+         escreval("VocÃª escolheu a OpÃ§Ã£o 4")
          escreval("Pressione Enter para continuar...")
          leia(opcao)
       caso 5
-         escreval("Você escolheu a Opção 5")
+         escreval("VocÃª escolheu a OpÃ§Ã£o 5")
          escreval("Pressione Enter para continuar...")
          leia(opcao)
       caso 6
-         escreval("Você escolheu a Opção 6")
+         escreval("VocÃª escolheu a OpÃ§Ã£o 6")
          escreval("Pressione Enter para continuar...")
          leia(opcao)
       caso 7
-         escreval("Você escolheu a Opção 7")
+         escreval("ConteÃºdo")
          escreval("Pressione Enter para continuar...")
          leia(opcao)
       senao
-         escreval("Opção inválida. Tente novamente.")
+         escreval("OpÃ§Ã£o invÃ¡lida. Tente novamente.")
       fimescolha
    ate opcao = 8
-   Escreval ("Agradecemos por sua atenção!")
+   Escreval ("Agradecemos por sua atenÃ§Ã£o!")
 fimalgoritmo
