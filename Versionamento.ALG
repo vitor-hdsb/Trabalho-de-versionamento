@@ -27,12 +27,16 @@ inicio
       caso 3
          limpatela 
          escreval("Você escolheu a Opção 3. Praticas de Versionamento")
+         escreval("")
          escreval("GitFlow")
          escreval("O Gitflow é um modelo alternativo de ramificação do Git que consiste no uso de ramificações de recursos e várias ramificações primárias.Tem dois branchs.")
+         escreval("")
          escreval ("GitHub Flow")
          escreval ("O fluxo de GitHub é um fluxo de trabalho leve e baseado no branch.Permitem que os desenvolvedores testem novas funções isoladamente, mantendo o programa estável. Assim que as modificações estão prontas, basta juntá-las no branch principal e levá-las para o código estável.")
+         escreval("")
          escreval ("GitLab Flow")
          escreval ("A diferença do GitLab Flow para o Git Flow é que ele possui três branchs principais ao invés de dois. •Main (Dev) •Staging (Homologação) •Productions (Produção);")
+         escreval("")
          escreval("Pressione Enter para continuar...")
          leia(opcao)
       caso 4
