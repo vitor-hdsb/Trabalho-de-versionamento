@@ -68,6 +68,7 @@ inicio
          escreval("Commit: Registro de uma versao especifica do projeto")
          escreval("Branch: Linha de desenvolvimento paralela")
          escreval("Merge: Junta mudancas de diferentes branches")
+         escreval("Tag: Marca versões importantes do projeto")
 
          leia(opcao)
       caso 2
