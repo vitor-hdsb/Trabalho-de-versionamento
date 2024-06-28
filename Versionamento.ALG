@@ -17,6 +17,16 @@ inicio
       caso 1
          limpatela
          escreval("Voce escolheu a opcao 1. Introducao")
+         escreval("Controle de Codigo")
+         escreval("O controle de versao e um sistema que registra as alteracoes em arquivos ao longo do tempo, permitindo revisitar versoes especificas")
+         escreval("")
+         escreval("Conceitos basicos:")
+         escreval("")
+         escreval("Repositorio: Armazena todos os seus dados e suas versoes")
+         escreval("Commit: Registro de uma versão especifica do projeto")
+         escreval("Branch: Linha de desenvolvimento paralela")
+         escreval("Merge: Junta mudanças de diferentes branches")
+
          escreval("Pressione Enter para continuar...")
          leia(opcao)
       caso 2
