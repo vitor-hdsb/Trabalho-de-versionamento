@@ -1,4 +1,4 @@
-                      algoritmo "EscolhaCasoEmLoop"
+algoritmo "EscolhaCasoEmLoop"
 var
    opcao: inteiro
 inicio
@@ -15,17 +15,17 @@ inicio
       leia(opcao)
       escolha opcao
       caso 1
-         limpatela  
+         limpatela
          escreval("Você escolheu a Opção 1. Introdução")
          escreval("Pressione Enter para continuar...")
          leia(opcao)
       caso 2
-         limpatela 
+         limpatela
          escreval("Você escolheu a Opção 2. Sistema de controle de versão")
          escreval("Pressione Enter para continuar...")
          leia(opcao)
       caso 3
-         limpatela 
+         limpatela
          escreval("Você escolheu a Opção 3. Praticas de Versionamento")
          escreval("")
          escreval("GitFlow")
@@ -40,24 +40,39 @@ inicio
          escreval("Pressione Enter para continuar...")
          leia(opcao)
       caso 4
-         limpatela 
+         limpatela
          escreval("Você escolheu a Opção 4. Ferramentas de versionamento")
          escreval("Pressione Enter para continuar...")
          leia(opcao)
       caso 5
-         limpatela 
+         limpatela
          escreval("Você escolheu a Opção 5. Estudo de caso e exemplo prático")
          escreval("Pressione Enter para continuar...")
          leia(opcao)
       caso 6
-         limpatela 
+         limpatela
          escreval("Você escolheu a Opção 6. Desafios e melhores práticas")
+         escreval("")
+         escreval("Desafios " )
+         escreval("")
+         escreval(".Gerenciamento de grandes repositórios" )
+         escreval(".Desempenho e Lentidão")
+         escreval(".Gerenciamento de Histórico")
+         escreval(".Conflitos de Merge")
+         escreval(".Gerenciamento de Branches")
+         escreval(".Gerenciamento de Permissões")
+         escreval("")
+         escreval("Melhores Práticas")
+         escreval(".Manutenção de histórico claro e legível(Mensagens de commit claras e descritivas)")
+         escreval(".Commits pequenos e frequentes")
+         escreval(".Revisões de código e pull requests.")
+         escreval("")
          escreval("Pressione Enter para continuar...")
          leia(opcao)
       caso 7
-         limpatela 
+         limpatela
          escreval("Ferramentas de versionamento")
-          escreval ("pfapiapdasipfiaspfiapsifpaifspsafpaf")
+         escreval ("pfapiapdasipfiaspfiapsifpaifspsafpaf")
          escreval("Pressione Enter para continuar...")
          leia(opcao)
       senao
