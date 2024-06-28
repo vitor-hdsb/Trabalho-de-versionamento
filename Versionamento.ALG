@@ -13,7 +13,7 @@ inicio
       escreval("7 - Conclusao")
       escreval("8 - Sair")
       leia(opcao)
-      se
+
       escolha opcao
       caso 1
          limpatela
@@ -117,6 +117,8 @@ inicio
          leia(opcao)
       caso 8
          escreval("Saindo...")
+      outrocaso
+            escreval("Opcao invalida! Tente novamente.")
       fimescolha
    ate opcao = 8
    Escreval ("Agradecemos por sua atencao!")
