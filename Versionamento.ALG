@@ -3,81 +3,81 @@ var
    opcao: inteiro
 inicio
    repita
-      escreval("Bem vindos a introdução ao versionamento. Escolha uma opção:")
-      escreval("1 - Tópico 1")
-      escreval("2 - Tópico 2")
-      escreval("3 - Tópico 3")
-      escreval("4 - Tópico 4")
-      escreval("5 - Tópico 5")
-      escreval("6 - Tópico 6")
+      escreval("Bem vindos a introducao ao versionamento. Escolha uma opcao:")
+      escreval("1 - topico 1")
+      escreval("2 - topico 2")
+      escreval("3 - topico 3")
+      escreval("4 - topico 4")
+      escreval("5 - topico 5")
+      escreval("6 - topico 6")
       escreval("7 - Conflitos Comuns")
       escreval("8 - Sair")
       leia(opcao)
       escolha opcao
       caso 1
          limpatela
-         escreval("Você escolheu a Opção 1. Introdução")
+         escreval("Voce escolheu a opcao 1. Introducao")
          escreval("Pressione Enter para continuar...")
          leia(opcao)
       caso 2
          limpatela
-         escreval("Você escolheu a Opção 2. Sistema de controle de versão")
+         escreval("Voce escolheu a opcao 2. Sistema de controle de versao")
          escreval("Pressione Enter para continuar...")
          leia(opcao)
       caso 3
          limpatela
-         escreval("Você escolheu a Opção 3. Praticas de Versionamento")
+         escreval("Voce escolheu a opcao 3. Praticas de Versionamento")
          escreval("")
          escreval("GitFlow")
-         escreval("O Gitflow é um modelo alternativo de ramificação do Git que consiste no uso de ramificações de recursos e várias ramificações primárias.Tem dois branchs.")
+         escreval("O Gitflow e um modelo alternativo de ramificacao do Git que consiste no uso de ramificacoes de recursos e varias ramificaoes primarias.Tem dois branchs.")
          escreval("")
          escreval ("GitHub Flow")
-         escreval ("O fluxo de GitHub é um fluxo de trabalho leve e baseado no branch.Permitem que os desenvolvedores testem novas funções isoladamente, mantendo o programa estável. Assim que as modificações estão prontas, basta juntá-las no branch principal e levá-las para o código estável.")
+         escreval ("O fluxo de GitHub e um fluxo de trabalho leve e baseado no branch.Permitem que os desenvolvedores testem novas funcoes isoladamente, mantendo o programa estavel. Assim que as modificacoes estao prontas, basta junta-las no branch principal e leva-las para o codigo estavel.")
          escreval("")
          escreval ("GitLab Flow")
-         escreval ("A diferença do GitLab Flow para o Git Flow é que ele possui três branchs principais ao invés de dois. •Main (Dev) •Staging (Homologação) •Productions (Produção);")
+         escreval ("A diferenca do GitLab Flow para o Git Flow e que ele possui tres branchs principais ao inves de dois. Main (Dev), Staging (Homologacao), Productions (Producao);")
          escreval("")
          escreval("Pressione Enter para continuar...")
          leia(opcao)
       caso 4
          limpatela
-         escreval("Você escolheu a Opção 4. Ferramentas de versionamento")
+         escreval("Voce escolheu a opcao 4. Ferramentas de versionamento")
          escreval("Pressione Enter para continuar...")
          leia(opcao)
       caso 5
          limpatela
-         escreval("Você escolheu a Opção 5. Estudo de caso e exemplo prático")
+         escreval("Voce escolheu a opcao 5. Estudo de caso e exemplo pratico")
          escreval("Pressione Enter para continuar...")
          leia(opcao)
       caso 6
          limpatela
-         escreval("Você escolheu a Opção 6. Desafios e melhores práticas")
+         escreval("Voce escolheu a opcao 6. Desafios e melhores praticas")
          escreval("")
          escreval("Desafios " )
          escreval("")
-         escreval(".Gerenciamento de grandes repositórios" )
-         escreval(".Desempenho e Lentidão")
-         escreval(".Gerenciamento de Histórico")
+         escreval(".Gerenciamento de grandes repositorios" )
+         escreval(".Desempenho e Lentidao")
+         escreval(".Gerenciamento de Historico")
          escreval(".Conflitos de Merge")
          escreval(".Gerenciamento de Branches")
-         escreval(".Gerenciamento de Permissões")
+         escreval(".Gerenciamento de Permissoes")
          escreval("")
-         escreval("Melhores Práticas")
-         escreval(".Manutenção de histórico claro e legível(Mensagens de commit claras e descritivas)")
+         escreval("Melhores Praticas")
+         escreval(".Manutencao de historico claro e legivel(Mensagens de commit claras e descritivas)")
          escreval(".Commits pequenos e frequentes")
-         escreval(".Revisões de código e pull requests.")
+         escreval(".Revisoes de codigo e pull requests.")
          escreval("")
          escreval("Pressione Enter para continuar...")
          leia(opcao)
       caso 7
          limpatela
          escreval("Ferramentas de versionamento")
-         escreval ("pfapiapdasipfiaspfiapsifpaifspsafpaf")
+         escreval ("Insira o conteudo aqui")
          escreval("Pressione Enter para continuar...")
          leia(opcao)
       senao
-         escreval("Opção inválida. Tente novamente.")
+         escreval("opcao invalida. Tente novamente.")
       fimescolha
    ate opcao = 8
-   Escreval ("Agradecemos por sua atenção!")
+   Escreval ("Agradecemos por sua atencao!")
 fimalgoritmo
