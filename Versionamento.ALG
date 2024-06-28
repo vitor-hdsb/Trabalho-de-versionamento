@@ -27,6 +27,8 @@ inicio
       caso 3
          limpatela 
          escreval("Você escolheu a Opção 3. Praticas de Versionamento")
+         escreval("GitFlow")
+         escreval("O Gitflow é um modelo alternativo de ramificação do Git que consiste no uso de ramificações de recursos e várias ramificações primárias.Tem dois branchs.")
          escreval("Pressione Enter para continuar...")
          leia(opcao)
       caso 4
