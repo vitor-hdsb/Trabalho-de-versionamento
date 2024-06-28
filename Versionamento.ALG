@@ -39,7 +39,7 @@ inicio
       caso 2
          limpatela
          escreval("Voce escolheu a opcao 2. Sistema de controle de versao")
-         escreval("Pressione Enter para continuar...")
+         escreval("Decada de 1980: Surgiram sistemas locais comos o RCS (Sistema)")
          leia(opcao)
       caso 3
          limpatela
