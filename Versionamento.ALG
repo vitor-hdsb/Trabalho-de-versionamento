@@ -20,7 +20,7 @@ inicio
          escreval("Controle de Codigo")
          escreval("")
          escreval("O controle de versao e um sistema que registra as alteracoes em arquivos ao longo do tempo, permitindo revisitar versoes especificas.")
-         escreval("Exemplos: Git (Sistema distribuido, popular pela eficiencia). Subversion ou SVN (Sistema Centralizado). Mercurial (Sistema ditribuido, semelhante ao Git")
+         escreval("Exemplos: Git (Sistema Distribuido, popular pela eficiencia). Subversion ou SVN (Sistema Centralizado). Mercurial (Sistema Ditribuido, semelhante ao Git")
          escreval("")
          escreval("Conceitos basicos:")
          escreval("")
