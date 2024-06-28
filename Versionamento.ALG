@@ -4,13 +4,13 @@ var
 inicio
    repita
       escreval("Bem vindos a introducao ao versionamento. Escolha uma opcao:")
-      escreval("1 - topico 1")
-      escreval("2 - topico 2")
-      escreval("3 - topico 3")
-      escreval("4 - topico 4")
-      escreval("5 - topico 5")
-      escreval("6 - topico 6")
-      escreval("7 - Conflitos Comuns")
+      escreval("1 - Introducao")
+      escreval("2 - Sistema de controle de versao")
+      escreval("3 - Praticas de versionamento")
+      escreval("4 - Ferramentas de versionamento")
+      escreval("5 - Estudo de caso e exemplo pratico")
+      escreval("6 - Desafios e melhores praticas")
+      escreval("7 - Conclusao")
       escreval("8 - Sair")
       leia(opcao)
       escolha opcao
@@ -88,7 +88,7 @@ inicio
          leia(opcao)
       caso 7
          limpatela
-         escreval("Ferramentas de versionamento")
+         escreval("Conclusao")
          escreval ("Insira o conteudo aqui")
          escreval("Pressione Enter para continuar...")
          leia(opcao)
