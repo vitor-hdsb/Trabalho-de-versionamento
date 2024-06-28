@@ -15,27 +15,27 @@ inicio
       leia(opcao)
       escolha opcao
       caso 1
-         escreval("Você escolheu a Opção 1.")
+         escreval("Você escolheu a Opção 1. Introdução")
          escreval("Pressione Enter para continuar...")
          leia(opcao)
       caso 2
-         escreval("Você escolheu a Opção 2.")
+         escreval("Você escolheu a Opção 2. Sistema de controle de versão")
          escreval("Pressione Enter para continuar...")
          leia(opcao)
       caso 3
-         escreval("Você escolheu a Opção 3")
+         escreval("Você escolheu a Opção 3. Praticas de Versionamento")
          escreval("Pressione Enter para continuar...")
          leia(opcao)
       caso 4
-         escreval("Você escolheu a Opção 4")
+         escreval("Você escolheu a Opção 4. Ferramentas de versionamento")
          escreval("Pressione Enter para continuar...")
          leia(opcao)
       caso 5
-         escreval("Você escolheu a Opção 5")
+         escreval("Você escolheu a Opção 5. Estudo de caso e exemplo prático")
          escreval("Pressione Enter para continuar...")
          leia(opcao)
       caso 6
-         escreval("Você escolheu a Opção 6")
+         escreval("Você escolheu a Opção 6. Desafios e melhores práticas")
          escreval("Pressione Enter para continuar...")
          leia(opcao)
       caso 7
