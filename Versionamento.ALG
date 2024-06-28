@@ -28,13 +28,6 @@ inicio
          escreval("Commit: Registro de uma versao especifica do projeto")
          escreval("Branch: Linha de desenvolvimento paralela")
          escreval("Merge: Junta mudancas de diferentes branches")
-         escreval("")
-         escreval("Ferramentas populares:")
-         escreval("")
-         escreval("GitHub: Plataforma para hospedagem de codigo e revisao de codigo")
-         escreval("GitLab: Similar ao GitHub com integracao continua")
-         escreval("Bitbucket: Suporta Git e Mercurial")
-         escreval("Pressione Enter para continuar...")
          leia(opcao)
       caso 2
          limpatela
@@ -63,7 +56,11 @@ inicio
       caso 4
          limpatela
          escreval("Voce escolheu a opcao 4. Ferramentas de versionamento")
-         escreval("Ramificação de projeto: Esta é a base para o versionamento. A possibilidade de ter várias linhas de desenvolvimento paralelas sem que uma interfira na outra. Cada dev tem sua versão do código e pode alterá-la da forma como achar necessário sem receio de interferir no trabalho do seu time.")
+         escreval("Ferramentas populares:")
+         escreval("")
+         escreval("GitHub: Plataforma para hospedagem de codigo e revisao de codigo")
+         escreval("GitLab: Similar ao GitHub com integracao continua")
+         escreval("Bitbucket: Suporta Git e Mercurial")
          escreval("Pressione Enter para continuar...")
          leia(opcao)
       caso 5
@@ -94,7 +91,8 @@ inicio
       caso 7
          limpatela
          escreval("Conclusao")
-         escreval ("Insira o conteudo aqui")
+         escreval ("Como vimos, o Versionamento de Codigo ou Controle de Versao surgiu com o intuito de facilitar a dinamica do trabalho entre programadores, possibilitando compartilhar e controlar as diversas alteracoes de um codigo raiz visando diminuir problemas e facilitar a execucao de um programa ou aplicacao.")
+         escreval("Neste contexto, os beneficios do versionamento destacam-se pela facilidade de identificar as alteracoes e compartilha-las aos colaboradores. Alem de possibilitar a recuperaaoo de versoes anteriores dos codigos. ")
          escreval("Pressione Enter para continuar...")
          leia(opcao)
       senao
