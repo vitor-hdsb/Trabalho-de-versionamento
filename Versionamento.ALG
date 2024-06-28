@@ -16,10 +16,20 @@ inicio
       escolha opcao
       caso 1
          limpatela
-         escreval("Voce escolheu a opcao 1. Introducao")
-         escreval("Controle de Codigo")
+         escreval("Voce escolheu a opcao 2 - Introducao")
+         escreval("Decada de 1980: Surgiram sistemas locais como o RCS (Sistema de Controle de Revisoes), oferecendo controle de versao, mas limitado ao ambiente local.")
+         escreval("Anos 90: O CVS (Sistema de Versoes Concorrentes) permitiu colaboracao remota, superando as limitacoes do RCS.")
+         escreval("Inicio dos anos 2000: O SVN (Subversion) foi introduzido para superar as limitacoes do CVS.")
+         escreval("Git: No inicio dos anos 2000, o Git surgiu como uma tendencia descentralizada, revolucionando a colaboracao ao permitir ramificaaoo eficiente e facilitar a fusao de codigo.")
+         escreval("Visao Atual: O Git é amplamente utilizado em projetos de todos os tamanhos, com ferramentas como GitHub, GitLab e Bitbucket ampliando a colaboração e fornecendo plataformas robustas para o gerenciamento de codigo-fonte")
+         escreval("Pressione Enter para continuar...")
+         leia(opcao)
+      caso 2
+         limpatela
+         escreval("Voce escolheu a opcao 2. Sistemas de controle de versionamento")
+         escreval("Controle de versao")
          escreval("")
-         escreval("O controle de versao e um sistema que registra as alteracoes em arquivos ao longo do tempo, permitindo revisitar versoes especificas.")
+         escreval("Os SCV (Sistemas de controle de versionamento) são sistemas que registram as alteracoes em arquivos ao longo do tempo, permitindo revisitar versoes especificas.")
          escreval("Exemplos: Git (Sistema Distribuido, popular pela eficiencia). Subversion ou SVN (Sistema Centralizado). Mercurial (Sistema Ditribuido, semelhante ao Git")
          escreval("")
          escreval("Conceitos basicos:")
@@ -33,17 +43,8 @@ inicio
          escreval("")
          escreval("GitHub: Plataforma para hospedagem de codigo e revisao de codigo")
          escreval("GitLab: Similar ao GitHub com integracao continua")
-         escreval("Bitbucket: Suporta Git e Mercurial")
-         escreval("Pressione Enter para continuar...")
-         leia(opcao)
-      caso 2
-         limpatela
-         escreval("Voce escolheu a opcao 2. Sistema de controle de versao")
-         escreval("Decada de 1980: Surgiram sistemas locais como o RCS (Sistema de Controle de Revisoes), oferecendo controle de versao, mas limitado ao ambiente local.")
-         escreval("Anos 90: O CVS (Sistema de Versoes Concorrentes) permitiu colaboracao remota, superando as limitacoes do RCS.")
-         escreval("Inicio dos anos 2000: O SVN (Subversion) foi introduzido para superar as limitacoes do CVS.")
-         escreval("Git: No inicio dos anos 2000, o Git surgiu como uma tendencia descentralizada, revolucionando a colaboracao ao permitir ramificaaoo eficiente e facilitar a fusao de codigo.")
-         escreval("Visao Atual: O Git é amplamente utilizado em projetos de todos os tamanhos, com ferramentas como GitHub, GitLab e Bitbucket ampliando a colaboração e fornecendo plataformas robustas para o gerenciamento de codigo-fonte")
+         escreval("Bitbucket: Suporta Git e Mercurial"
+         escreval ("Digite Enter para continuar")
          leia(opcao)
       caso 3
          limpatela
