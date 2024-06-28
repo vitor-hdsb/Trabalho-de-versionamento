@@ -18,7 +18,9 @@ inicio
          limpatela
          escreval("Voce escolheu a opcao 1. Introducao")
          escreval("Controle de Codigo")
-         escreval("O controle de versao e um sistema que registra as alteracoes em arquivos ao longo do tempo, permitindo revisitar versoes especificas")
+         escreval("")
+         escreval("O controle de versao e um sistema que registra as alteracoes em arquivos ao longo do tempo, permitindo revisitar versoes especificas.")
+         escreval("Exemplos: Git (Sistema distribuido, popular pela eficiencia). Subversion ou SVN (Sistema Centralizado). Mercurial (Sistema ditribuido, semelhante ao Git")
          escreval("")
          escreval("Conceitos basicos:")
          escreval("")
@@ -26,7 +28,12 @@ inicio
          escreval("Commit: Registro de uma versão especifica do projeto")
          escreval("Branch: Linha de desenvolvimento paralela")
          escreval("Merge: Junta mudanças de diferentes branches")
-
+         escreval("")
+         escreval("Ferramentas populares:")
+         escreval("")
+         escreval("GitHub: Plataforma para hospedagem de codigo e revisao de codigo")
+         escreval("GitLab: Similar ao GitHub com integracao continua")
+         escreval("Bitbucket: Suporta Git e Mercurial")
          escreval("Pressione Enter para continuar...")
          leia(opcao)
       caso 2
