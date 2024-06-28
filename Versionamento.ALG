@@ -16,12 +16,20 @@ inicio
       escolha opcao
       caso 1
          limpatela
-         escreval("Voce escolheu a opcao 2 - Introducao")
-         escreval("Decada de 1980: Surgiram sistemas locais como o RCS (Sistema de Controle de Revisoes), oferecendo controle de versao, mas limitado ao ambiente local.")
-         escreval("Anos 90: O CVS (Sistema de Versoes Concorrentes) permitiu colaboracao remota, superando as limitacoes do RCS.")
-         escreval("Inicio dos anos 2000: O SVN (Subversion) foi introduzido para superar as limitacoes do CVS.")
-         escreval("Git: No inicio dos anos 2000, o Git surgiu como uma tendencia descentralizada, revolucionando a colaboracao ao permitir ramificaaoo eficiente e facilitar a fusao de codigo.")
-         escreval("Visao Atual: O Git é amplamente utilizado em projetos de todos os tamanhos, com ferramentas como GitHub, GitLab e Bitbucket ampliando a colaboração e fornecendo plataformas robustas para o gerenciamento de codigo-fonte")
+         escreval ("Voce escolheu a opcao 1 - Introducao")
+         escreval ("O desenvolvimento de softwares comumente é feito por uma equipe disciplinar. Desenvolvedor front-end, back-end, full-stack, mobile, dev. de banco de dados, dev ops, ethical hackers dentre outros, e geral essa equipe precisa trabalhar forma simultanea.")
+         escreval ("Mas, como possibilitar que varias pessoas trabalhem simultaneamente na mesma, ou em varias areas do codigo, e controlar o que cada um fez ?")
+         escreval ("E ai que surgem os SCV (Sistemas de controle de versionamento), que atuam como maquinas do tempo no codigo fonte.")
+         escreval ("Os SCV dao as caras na historia da programacao em meados de 1972. Nessa decada surgiu o SCCS (SOurce Code Control System), mas com limitacoes:")
+         escreval ("Trabalho de forma individualizada, o que gerava grande volume de dados")
+         escreval ("Era um sistema centralizado")
+         escreval ("Registrava as alteracoes no codigo mas nao permitia retornar a alguma versao anterior")
+         escreval ("As sintaxes eram complicadas, ja que ainda nao exisit ao SemVer")
+         escreval ("Nao havia como trabalhar com branchs, o que dificultava o trabalho em equipe")
+         escreval ("Dentre outras limitacoes")
+         escreval ("Nos anos seguintes, a evolucao dos SCV nao parou por ai. E um concorrente sempre vinha com uma resposta direta as limitacoes do seu antecessor, como o RCS em resposta ao SCCS, o CVS em resposta ao RCS, o SVN como resposta ao CVS e assim por diante")
+         escreval ("Mas e somente em 2005 que o universo dos SCV vira de cabeça pra baixo com o nascimento do GIT")
+         escreval ("
          escreval("Pressione Enter para continuar...")
          leia(opcao)
       caso 2
@@ -43,7 +51,7 @@ inicio
          escreval("")
          escreval("GitHub: Plataforma para hospedagem de codigo e revisao de codigo")
          escreval("GitLab: Similar ao GitHub com integracao continua")
-         escreval("Bitbucket: Suporta Git e Mercurial"
+         escreval("Bitbucket: Suporta Git e Mercurial")
          escreval ("Digite Enter para continuar")
          leia(opcao)
       caso 3
