@@ -15,30 +15,37 @@ inicio
       leia(opcao)
       escolha opcao
       caso 1
+         limpatela  
          escreval("Você escolheu a Opção 1. Introdução")
          escreval("Pressione Enter para continuar...")
          leia(opcao)
       caso 2
+         limpatela 
          escreval("Você escolheu a Opção 2. Sistema de controle de versão")
          escreval("Pressione Enter para continuar...")
          leia(opcao)
       caso 3
+         limpatela 
          escreval("Você escolheu a Opção 3. Praticas de Versionamento")
          escreval("Pressione Enter para continuar...")
          leia(opcao)
       caso 4
+         limpatela 
          escreval("Você escolheu a Opção 4. Ferramentas de versionamento")
          escreval("Pressione Enter para continuar...")
          leia(opcao)
       caso 5
+         limpatela 
          escreval("Você escolheu a Opção 5. Estudo de caso e exemplo prático")
          escreval("Pressione Enter para continuar...")
          leia(opcao)
       caso 6
+         limpatela 
          escreval("Você escolheu a Opção 6. Desafios e melhores práticas")
          escreval("Pressione Enter para continuar...")
          leia(opcao)
       caso 7
+         limpatela 
          escreval("Ferramentas de versionamento")
           escreval ("pfapiapdasipfiaspfiapsifpaifspsafpaf")
          escreval("Pressione Enter para continuar...")
