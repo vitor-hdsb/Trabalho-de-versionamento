@@ -38,7 +38,7 @@ inicio
          escreval("Commit: Registro de uma versao especifica do projeto")
          escreval("Branch: Linha de desenvolvimento paralela")
          escreval("Merge: Junta mudancas de diferentes branches")
-<<<<<<< HEAD
+
          leia(opcao)
       caso 2
          limpatela
@@ -48,7 +48,6 @@ inicio
          escreval("Inicio dos anos 2000: O SVN (Subversion) foi introduzido para superar as limitacoes do CVS.")
          escreval("Git: No inicio dos anos 2000, o Git surgiu como uma tendencia descentralizada, revolucionando a colaboracao ao permitir ramificaaoo eficiente e facilitar a fusao de codigo.")
          escreval("Visao Atual: O Git é amplamente utilizado em projetos de todos os tamanhos, com ferramentas como GitHub, GitLab e Bitbucket ampliando a colaboração e fornecendo plataformas robustas para o gerenciamento de codigo-fonte")
-=======
          escreval("")
          escreval("Ferramentas populares:")
          escreval("")
@@ -56,7 +55,7 @@ inicio
          escreval("GitLab: Similar ao GitHub com integracao continua")
          escreval("Bitbucket: Suporta Git e Mercurial"
          escreval ("Digite Enter para continuar")
->>>>>>> 783614a7451a606e78cdcfec027934b7ccc68a2a
+
          leia(opcao)
       caso 3
          limpatela
