@@ -39,7 +39,11 @@ inicio
       caso 2
          limpatela
          escreval("Voce escolheu a opcao 2. Sistema de controle de versao")
-         escreval("Decada de 1980: Surgiram sistemas locais comos o RCS (Sistema)")
+         escreval("Decada de 1980: Surgiram sistemas locais como o RCS (Sistema de Controle de Revisoes), oferecendo controle de versao, mas limitado ao ambiente local.")
+         escreval("Anos 90: O CVS (Sistema de Versoes Concorrentes) permitiu colaboracao remota, superando as limitacoes do RCS.")
+         escreval("Inicio dos anos 2000: O SVN (Subversion) foi introduzido para superar as limitacoes do CVS.")
+         escreval("Git: No inicio dos anos 2000, o Git surgiu como uma tendencia descentralizada, revolucionando a colaboracao ao permitir ramificaaoo eficiente e facilitar a fusao de codigo.")
+         escreval("Visao Atual: O Git é amplamente utilizado em projetos de todos os tamanhos, com ferramentas como GitHub, GitLab e Bitbucket ampliando a colaboração e fornecendo plataformas robustas para o gerenciamento de codigo-fonte")
          leia(opcao)
       caso 3
          limpatela
