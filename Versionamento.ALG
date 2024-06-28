@@ -13,6 +13,7 @@ inicio
       escreval("7 - Conclusao")
       escreval("8 - Sair")
       leia(opcao)
+      se
       escolha opcao
       caso 1
          limpatela
@@ -114,8 +115,8 @@ inicio
          escreval("Neste contexto, os beneficios do versionamento destacam-se pela facilidade de identificar as alteracoes e compartilha-las aos colaboradores. Alem de possibilitar a recuperaaoo de versoes anteriores dos codigos. ")
          escreval("Pressione Enter para continuar...")
          leia(opcao)
-      senao
-         escreval("opcao invalida! Tente novamente.")
+      caso 8
+         escreval("Saindo...")
       fimescolha
    ate opcao = 8
    Escreval ("Agradecemos por sua atencao!")
