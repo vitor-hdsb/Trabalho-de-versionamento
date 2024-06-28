@@ -63,6 +63,7 @@ inicio
       caso 4
          limpatela
          escreval("Voce escolheu a opcao 4. Ferramentas de versionamento")
+         escreval("Ramificação de projeto: Esta é a base para o versionamento. A possibilidade de ter várias linhas de desenvolvimento paralelas sem que uma interfira na outra. Cada dev tem sua versão do código e pode alterá-la da forma como achar necessário sem receio de interferir no trabalho do seu time.")
          escreval("Pressione Enter para continuar...")
          leia(opcao)
       caso 5
