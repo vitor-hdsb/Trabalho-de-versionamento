@@ -93,7 +93,7 @@ inicio
          escreval("Pressione Enter para continuar...")
          leia(opcao)
       senao
-         escreval("opcao invalida. Tente novamente.")
+         escreval("opcao invalida! Tente novamente.")
       fimescolha
    ate opcao = 8
    Escreval ("Agradecemos por sua atencao!")
