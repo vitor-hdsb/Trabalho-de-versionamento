@@ -27,7 +27,6 @@ inicio
          escreval ("")
          escreval ("Os SCV dao as caras na historia da programacao em meados de 1972. Nessa decada surgiu o SCCS (SOurce Code Control System), mas com limitacoes:")
          escreval ("")
-         escreval ("Trabalho de forma individualizada, o que gerava grande volume de dados")
          escreval ("Era um sistema centralizado")
          escreval ("Registrava as alteracoes no codigo mas nao permitia retornar a alguma versao anterior")
          escreval ("As sintaxes eram complicadas, ja que ainda nao exisit ao SemVer")
