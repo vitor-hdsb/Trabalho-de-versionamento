@@ -13,7 +13,7 @@ inicio
       escreval("7 - Conclusao")
       escreval("8 - Sair")
       leia(opcao)
-
+                                      ALTERAÇÃO PARA APRESENTAÇÃO NA SALA DE AULA
       escolha opcao
       caso 1
          limpatela
