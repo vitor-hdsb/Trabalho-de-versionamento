@@ -13,11 +13,11 @@ inicio
       escreval("7 - Conclusao")
       escreval("8 - Sair")
       leia(opcao)
-                                      ALTERAÇÃO PARA APRESENTAÇÃO NA SALA DE AULA
+                                      ALTERAï¿½ï¿½O PARA APRESENTAï¿½ï¿½O NA SALA DE AULA
       escolha opcao
       caso 1
          limpatela
-         escreval ("Voce escolheu a opcao 1 - Introducao")
+         escreval ("o")
          escreval ("")
          escreval ("O desenvolvimento de softwares comumente e feito por uma equipe disciplinar. Desenvolvedor front-end, back-end, full-stack, mobile, dev. de banco de dados, dev ops, ethical hackers dentre outros, e geral essa equipe precisa trabalhar forma simultanea.")
          escreval ("")
